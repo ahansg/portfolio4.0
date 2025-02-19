@@ -1,7 +1,11 @@
 import React from "react";
 import "./project.css";
 import "./gridcontainers.css";
+<<<<<<< HEAD
 //import ExperisWishes from "../../assets/projectAssets/project4/Experis_onsker_hovedbilde.svg";
+=======
+import ExperisWishes from "../../assets/projectAssets/project4/Experis_onsker_hovedbilde.svg";
+>>>>>>> e1bfb665369f5acf6cc7e810c7c763683ff67c2d
 import ZoomableImageGallery from "../image/ZoomableImageGallery";
 import Arrow from "../../assets/projectAssets/allProjects/Arrow 3.svg";
 import Arrow_upward from "../../assets/projectAssets/allProjects/arrow_upward.svg";
@@ -12,9 +16,13 @@ const Project4 = () => {
     <div id="top">
       {/*Top section with image*/}
       <div className="top_section">
+<<<<<<< HEAD
         {/*
         <img src={ExperisWishes} alt="Dissimilis First" className="top_image" />
         */}
+=======
+        <img src={ExperisWishes} alt="Dissimilis First" className="top_image" />
+>>>>>>> e1bfb665369f5acf6cc7e810c7c763683ff67c2d
 
         <div className="button_container">
           <button

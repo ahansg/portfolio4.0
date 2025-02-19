@@ -1,11 +1,7 @@
 import React from "react";
 import "./project.css";
 import "./gridcontainers.css";
-<<<<<<< HEAD
-//import DissimilisWishes from "../../assets/projectAssets/project1/DissimilisWishes.svg";
-=======
 import DissimilisWishes from "../../assets/projectAssets/project1/DissimilisWishes.svg";
->>>>>>> e1bfb665369f5acf6cc7e810c7c763683ff67c2d
 import Arrow from "../../assets/projectAssets/allProjects/Arrow 3.svg";
 import Arrow_upward from "../../assets/projectAssets/allProjects/arrow_upward.svg";
 import { Link } from "react-router-dom";
@@ -15,22 +11,12 @@ const Project1 = () => {
   return (
     <div id="top">
       {/*Top section with image*/}
-<<<<<<< HEAD
-
       <div className="top_section">
-        {/*
-=======
-      <div className="top_section">
->>>>>>> e1bfb665369f5acf6cc7e810c7c763683ff67c2d
         <img
           src={DissimilisWishes}
           alt="Dissimilis First"
           className="top_image"
         />
-<<<<<<< HEAD
-        */}
-=======
->>>>>>> e1bfb665369f5acf6cc7e810c7c763683ff67c2d
 
         <div className="button_container">
           <button

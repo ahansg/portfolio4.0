@@ -4,8 +4,6 @@ import "./gridcontainers.css";
 
 //import DissimilisWishes from "../../assets/projectAssets/project1/DissimilisWishes.svg";
 
-import DissimilisWishes from "../../assets/projectAssets/project1/DissimilisWishes.svg";
-
 import Arrow from "../../assets/projectAssets/allProjects/Arrow 3.svg";
 import Arrow_upward from "../../assets/projectAssets/allProjects/arrow_upward.svg";
 import { Link } from "react-router-dom";

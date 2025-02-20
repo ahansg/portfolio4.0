@@ -15,11 +15,9 @@ import EndeligDesign from "../../assets/projectAssets/project1/EndeligDesign.png
 
 // import PresModusDesign from "../../assets/projectAssets/project1/PresModusDesign.png";
 
-import PresentasjonsmodusNavigering from "../../assets/projectAssets/project1/PresentasjonsmodusNavigering.svg";
 import PresModusDesign from "../../assets/projectAssets/project1/PresModusDesign.png";
 
-import PresentasjonsmodusNavigering from "../../assets/projectAssets/project1/PresentasjonsmodusNavigering.png";
-import PresModusDesign from "../../assets/projectAssets/project1/PresModusDesign.png";
+import PresentasjonsmodusNavigering from "../../assets/projectAssets/project1/PresentasjonsmodusNavigering.svg";
 
 import PresModus from "../../assets/projectAssets/project1/PresModus.svg";
 import DesignVisning from "../../assets/projectAssets/project1/DesignVisning.png";
@@ -45,9 +43,6 @@ import Endelig_design_landingsside from "../../assets/projectAssets/project4/End
 // import Skumring_hoved from "../../assets/projectAssets/project2/Skumring_hoved.png";
 
 import Skumring_hoved from "../../assets/projectAssets/project2/Skumring_hoved.svg";
-
-import Skumring_hoved from "../../assets/projectAssets/project2/Skumring_hoved.png";
-
 import Design_thinking from "../../assets/projectAssets/project2/Design_thinking.png";
 import Group_interview from "../../assets/projectAssets/project2/Group_interview.png";
 import Affinity_diagram from "../../assets/projectAssets/project2/Affinity_diagram.png";

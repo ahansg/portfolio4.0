@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6ecd1384.css",
-    "main.js": "/static/js/main.41b51c02.js",
+    "main.js": "/static/js/main.d09a3c63.js",
     "static/media/Flow1.png": "/static/media/Flow1.072af6baf685f8bf0087.png",
     "static/media/MapListScreen.png": "/static/media/MapListScreen.642afe557ec79038261a.png",
     "static/media/ListScreen.png": "/static/media/ListScreen.b120017b66699cde1f30.png",
@@ -68,7 +68,7 @@
     "static/media/Prototyping.png": "/static/media/Prototyping.f18c79eba13d2a88cf34.png",
     "static/media/Low_fi1.png": "/static/media/Low_fi1.10975a542123023722ca.png",
     "static/media/Skumring.png": "/static/media/Skumring.ee1fd5c22ec0d14ebd10.png",
-    "static/media/Designsystem1.png": "/static/media/Designsystem1.070d0151ac23ba5825e0.png",
+    "static/media/Designsystem2.png": "/static/media/Designsystem2.070d0151ac23ba5825e0.png",
     "static/media/PlasseringPiano.png": "/static/media/PlasseringPiano.bebbcef20b44df72d1ab.png",
     "static/media/GammelFlyt.png": "/static/media/GammelFlyt.1f65bb277c791c9cc2cd.png",
     "static/media/mine-lokasjoner.png": "/static/media/mine-lokasjoner.6ceb5795d9632a2c7c12.png",
@@ -81,10 +81,10 @@
     "static/media/arrow_upward_skumring.svg": "/static/media/arrow_upward_skumring.7d9b275452d5b3858aad4793d29a9237.svg",
     "static/media/Arrow 3.svg": "/static/media/Arrow 3.0de72cdcd2c72b54f7163bb83eda682c.svg",
     "main.6ecd1384.css.map": "/static/css/main.6ecd1384.css.map",
-    "main.41b51c02.js.map": "/static/js/main.41b51c02.js.map"
+    "main.d09a3c63.js.map": "/static/js/main.d09a3c63.js.map"
   },
   "entrypoints": [
     "static/css/main.6ecd1384.css",
-    "static/js/main.41b51c02.js"
+    "static/js/main.d09a3c63.js"
   ]
 }

@@ -1,6 +1,6 @@
-import Brukernes_onsker from "../../assets/portfolioAssets/Brukernes_onsker.png";
-import Designsystem from "../../assets/portfolioAssets/Designsystem.png";
-import Experis_onsker from "../../assets/portfolioAssets/Experis_onsker.png";
+import Brukernes_onsker from "../../assets/portfolioAssets/Brukerne.png";
+import Designsystem from "../../assets/portfolioAssets/Designsystem (1).png";
+import Experis_onsker from "../../assets/portfolioAssets/Experis_onsker2.png";
 import Skumring from "../../assets/portfolioAssets/Skumring.png";
 import Veles from "../../assets/portfolioAssets/Veles.png";
 

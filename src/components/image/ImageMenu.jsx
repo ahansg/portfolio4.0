@@ -81,7 +81,6 @@ const ImageMenu = [
   //{ id: 1, image: DissimilisWishes },
 
   { id: 1, image: DissimilisWishes },
-
   { id: 2, image: Piano },
   { id: 3, image: SystemUsability },
   { id: 4, image: AtomicUX },

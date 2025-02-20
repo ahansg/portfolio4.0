@@ -18,6 +18,9 @@ import EndeligDesign from "../../assets/projectAssets/project1/EndeligDesign.png
 import PresentasjonsmodusNavigering from "../../assets/projectAssets/project1/PresentasjonsmodusNavigering.svg";
 import PresModusDesign from "../../assets/projectAssets/project1/PresModusDesign.png";
 
+import PresentasjonsmodusNavigering from "../../assets/projectAssets/project1/PresentasjonsmodusNavigering.png";
+import PresModusDesign from "../../assets/projectAssets/project1/PresModusDesign.png";
+
 import PresModus from "../../assets/projectAssets/project1/PresModus.svg";
 import DesignVisning from "../../assets/projectAssets/project1/DesignVisning.png";
 import OpptakSkjerm from "../../assets/projectAssets/project1/OpptakSkjerm.png";
@@ -42,6 +45,8 @@ import Endelig_design_landingsside from "../../assets/projectAssets/project4/End
 // import Skumring_hoved from "../../assets/projectAssets/project2/Skumring_hoved.png";
 
 import Skumring_hoved from "../../assets/projectAssets/project2/Skumring_hoved.svg";
+
+import Skumring_hoved from "../../assets/projectAssets/project2/Skumring_hoved.png";
 
 import Design_thinking from "../../assets/projectAssets/project2/Design_thinking.png";
 import Group_interview from "../../assets/projectAssets/project2/Group_interview.png";
@@ -97,6 +102,9 @@ const ImageMenu = [
   { id: 11, image: PresentasjonsmodusNavigering },
   { id: 12, image: PresModusDesign },
 
+  { id: 11, image: PresentasjonsmodusNavigering },
+  { id: 12, image: PresModusDesign },
+
   { id: 13, image: PresModus },
   { id: 14, image: DesignVisning },
   { id: 15, image: OpptakSkjerm },
@@ -118,6 +126,8 @@ const ImageMenu = [
   /*PROJECT 2 - SKUMRING */
 
   //{ id: 28, image: Skumring_hoved },
+
+  { id: 28, image: Skumring_hoved },
 
   { id: 28, image: Skumring_hoved },
 

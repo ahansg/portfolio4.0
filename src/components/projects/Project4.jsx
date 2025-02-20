@@ -4,6 +4,8 @@ import "./gridcontainers.css";
 
 //import ExperisWishes from "../../assets/projectAssets/project4/Experis_onsker_hovedbilde.svg";
 
+import ExperisWishes from "../../assets/projectAssets/project4/Experis_onsker_hovedbilde.svg";
+
 import ZoomableImageGallery from "../image/ZoomableImageGallery";
 import Arrow from "../../assets/projectAssets/allProjects/Arrow 3.svg";
 import Arrow_upward from "../../assets/projectAssets/allProjects/arrow_upward.svg";
@@ -19,6 +21,8 @@ const Project4 = () => {
         */}
 
         <img alt="Dissimilis First" className="top_image" />
+
+        <img src={ExperisWishes} alt="Dissimilis First" className="top_image" />
 
         <div className="button_container">
           <button

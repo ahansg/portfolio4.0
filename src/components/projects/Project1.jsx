@@ -4,6 +4,8 @@ import "./gridcontainers.css";
 
 //import DissimilisWishes from "../../assets/projectAssets/project1/DissimilisWishes.svg";
 
+import DissimilisWishes from "../../assets/projectAssets/project1/DissimilisWishes.svg";
+
 import Arrow from "../../assets/projectAssets/allProjects/Arrow 3.svg";
 import Arrow_upward from "../../assets/projectAssets/allProjects/arrow_upward.svg";
 import { Link } from "react-router-dom";
@@ -16,7 +18,9 @@ const Project1 = () => {
 
       <div className="top_section">
         {/*
-=======
+
+      <div className="top_section">
+
       <div className="top_section">
 
         <img
@@ -24,9 +28,9 @@ const Project1 = () => {
           alt="Dissimilis First"
           className="top_image"
         />
-<<<<<<< HEAD
+
         */}
-        =======
+
         <div className="button_container">
           <button
             onClick={() =>

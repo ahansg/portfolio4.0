@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6ecd1384.css",
-    "main.js": "/static/js/main.d0389a0d.js",
+    "main.js": "/static/js/main.f3fbd94b.js",
     "static/media/Flow1.png": "/static/media/Flow1.072af6baf685f8bf0087.png",
     "static/media/MapListScreen.png": "/static/media/MapListScreen.642afe557ec79038261a.png",
     "static/media/ListScreen.png": "/static/media/ListScreen.b120017b66699cde1f30.png",
@@ -56,9 +56,11 @@
     "static/media/DesignVisning.png": "/static/media/DesignVisning.b6ad7feb923091dec52e.png",
     "static/media/MyLocations_add.png": "/static/media/MyLocations_add.8f4ba85bd7e096730dd1.png",
     "static/media/MyLocations.png": "/static/media/MyLocations.70686d9c75294e2b44f6.png",
+    "static/media/PresentasjonsmodusNavigering.svg": "/static/media/PresentasjonsmodusNavigering.8e51eb1887e9f9c0940f34cecbb0d39c.svg",
     "static/media/OpptakSkjerm.png": "/static/media/OpptakSkjerm.7a47a9718b2d1371ff52.png",
     "static/media/11.png": "/static/media/11.27842b893b4ee63c1be1.png",
     "static/media/Geriljatesting.png": "/static/media/Geriljatesting.ea17de97b427dc4ecf0e.png",
+    "static/media/PresModusDesign.png": "/static/media/PresModusDesign.59b8570705db5b5c9fe1.png",
     "static/media/mer info.png": "/static/media/mer info.3ea01a5794ee44b3645e.png",
     "static/media/Low_fi3.png": "/static/media/Low_fi3.5ad8435fb735616ef918.png",
     "static/media/hjemmeside.png": "/static/media/hjemmeside.4f2a40a2b06132d2afce.png",
@@ -79,10 +81,10 @@
     "static/media/arrow_upward_skumring.svg": "/static/media/arrow_upward_skumring.7d9b275452d5b3858aad4793d29a9237.svg",
     "static/media/Arrow 3.svg": "/static/media/Arrow 3.0de72cdcd2c72b54f7163bb83eda682c.svg",
     "main.6ecd1384.css.map": "/static/css/main.6ecd1384.css.map",
-    "main.d0389a0d.js.map": "/static/js/main.d0389a0d.js.map"
+    "main.f3fbd94b.js.map": "/static/js/main.f3fbd94b.js.map"
   },
   "entrypoints": [
     "static/css/main.6ecd1384.css",
-    "static/js/main.d0389a0d.js"
+    "static/js/main.f3fbd94b.js"
   ]
 }
